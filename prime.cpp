@@ -1,3 +1,5 @@
+//Program to check if a number is prime or not.
+
 #include <iostream>
 using namespace std;
 int main()
@@ -27,3 +29,9 @@ int main()
     cout << a << " is not a prime number.";
   }
 }
+
+/* OUTPUT: 
+Enter the number:
+240
+240 is not a prime number.
+*/
