@@ -1,3 +1,5 @@
+//Program to check if leap year or not.
+
 #include <iostream>
 using namespace std;
 
@@ -26,3 +28,9 @@ int main()
     }
     return 0;
 }
+
+/* OUTPUT:
+
+1997
+1997 is not a leap year. 
+*/
