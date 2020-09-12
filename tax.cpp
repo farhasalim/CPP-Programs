@@ -1,3 +1,5 @@
+// A program to calculate tax per year. Total amount to be taxed calculated from income and savings.
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -73,3 +75,18 @@ int main()
     }
   }
 }
+
+/* OUTPUT: 
+Enter option:
+1. Calculate income tax.
+0. Exit program.
+1
+Enter income per year:  400000
+Enter savings:
+20000
+Tax amount: 20000
+Enter option:
+1. Calculate income tax.
+0. Exit program.
+0
+*/
