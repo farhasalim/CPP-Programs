@@ -1,10 +1,12 @@
+// #define example program
+
 #include <iostream>
 using namespace std;
-#define FARA cout << "Farha"
+#define ABC cout << "abcdefg"
 int main()
 
 {
-  FARA;
+  ABC;
   /* This is a comment */
   typedef int i;
   i a;
@@ -12,3 +14,7 @@ int main()
   cout << a;
   return 0;
 }
+
+/* OUTPUT
+
+abcdefg2 */
